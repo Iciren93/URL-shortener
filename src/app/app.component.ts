@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ShortenURL } from '../services/service';
+import { ShortenURL } from '../services/service.component';
 
 @Component({
   selector: 'app-root',
